@@ -8,9 +8,9 @@ The purpose of the Minimal Transparent Source License is to encourage software
 authors and copyright holders to reveal the source code of otherwise
 commercially valuable, closed source software, in order for prospective users
 and commercial licensees of the software to have a chance to thoroughly audit
-the software prior to purchasing, and for security researchers to have free
-access to the source code without needing to enter into any special arrangements
-with the copyright holders.
+the software prior to purchasing or otherwise using the software, and for
+security researchers to have free access to the source code without needing to
+enter into any special arrangements with the copyright holders.
 
 ## Full License Text
 
